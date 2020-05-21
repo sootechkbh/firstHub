@@ -25,7 +25,7 @@ public class Controller {
 		System.out.println("master e");
 	}
 	public void f() {
-		System.out.println("master test");
+		System.out.println("master testteste");
 	}
 	
 }
