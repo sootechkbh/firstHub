@@ -8,8 +8,6 @@ public class Controller {
 
 		Scanner scan = new Scanner(System.in);
 		
-		System.out.println("1");
-
-	}
+		System.out.println("second Branch ");	}
 
 }
