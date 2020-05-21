@@ -13,22 +13,22 @@ public class Controller {
 	}
 	
 	public void a() {
-		System.out.println("second Branch a");
+		System.out.println("third Branch a");
 	}
 	public void b() {
-		System.out.println("second Branch b");	
+		System.out.println("third Branch b");	
 	}
 	public void c() {
-		System.out.println("second Branch c");
+		System.out.println("third Branch c");
 	}
 	public void d() {
-		System.out.println("second Branch d");
+		System.out.println("third Branch d");
 	}
 	public void e() {
-		System.out.println("second Branch e");	
+		System.out.println("third Branch e");	
 	}
 	public void f() {
-		System.out.println("second Branch f");
+		System.out.println("third Branch f");
 	}
 
 
