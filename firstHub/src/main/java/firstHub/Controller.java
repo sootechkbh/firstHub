@@ -8,6 +8,8 @@ public class Controller {
 
 		Scanner scan = new Scanner(System.in);
 		System.out.println("master Branch");
-		}
+		
+	}
 
+	
 }
