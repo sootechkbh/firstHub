@@ -10,12 +10,6 @@ public class Controller {
 		
 		System.out.println("second Branch ");	
 		System.out.println("second Branch ");
-		System.out.println("second Branch ");
-		System.out.println("second Branch ");
-		System.out.println("second Branch ");
-		System.out.println("second Branch ");
-		System.out.println("second Branch ");
-		System.out.println("second Branch ");
 		
 	}
 
