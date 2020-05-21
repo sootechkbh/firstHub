@@ -9,6 +9,14 @@ public class Controller {
 		Scanner scan = new Scanner(System.in);
 		
 		System.out.println("second Branch ");	
-		}
+		System.out.println("second Branch ");
+		System.out.println("second Branch ");
+		System.out.println("second Branch ");
+		System.out.println("second Branch ");
+		System.out.println("second Branch ");
+		System.out.println("second Branch ");
+		System.out.println("second Branch ");
+		
+	}
 
 }
