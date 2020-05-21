@@ -27,7 +27,7 @@ public class Controller {
 		System.out.println("second e");
 	}
 	public void f() {
-		System.out.println("second fffff");
+		System.out.println("second test");
 	}
 	
 	
