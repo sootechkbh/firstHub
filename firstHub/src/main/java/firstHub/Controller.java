@@ -6,8 +6,7 @@ public class Controller {
 
 	public static void main(String[] args) {
 
-	System.out.println("new test kbh!! ");
-	System.out.println("new test!!!!!!jhj!!!a");
+	System.out.println("new test3333 jhj!! ");
 	}
 
 	
