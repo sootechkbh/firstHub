@@ -6,15 +6,6 @@ public class Controller {
 
 	public static void main(String[] args) {
 
-		Scanner scan = new Scanner(System.in);
-		System.out.println("master Branch");
-		System.out.println("master Branch");
-		System.out.println("master Branch");
-		System.out.println("master Branch");
-		System.out.println("master Branch");
-		System.out.println("master Branch");
-		System.out.println("master Branch");
-		System.out.println("master Branch");
 		
 	}
 
