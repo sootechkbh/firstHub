@@ -9,6 +9,4 @@ public class Controller {
 		System.out.println("real jhj");
 	}
 
-	
-	
 }
